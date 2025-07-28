@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<localization xmlns="http://nasajon.com/schemas/localization.xsd" culture="pt" moduleId="EE04F36F-BAD2-4305-CCB3-34F5B1D0C8F1">
+  <group name="LogOnView">
+    <string key="GS_LogOn_Title">Faça logon no Nasajon BI</string>
+    <string key="GS_LogOn_Username">Nome de usuário</string>
+    <string key="GS_LogOn_Password">Senha</string>
+    <string key="GS_LogOn_Button">Entrar</string>
+
+    <group name="PasswordReset" tags="client">
+      <string key="GS_PasswordReset_Title">Redefina sua senha</string>
+      <string key="GS_PasswordReset_Email">Digite seu endereço de e -mail</string>
+      <string key="GS_PasswordReset_Button">Enviar link de redefinição</string>
+    </group>
+  </group>
+
+  <group name="Dashboard">
+    <string key="GS_Dashboard_Title">Painel</string>
+    <string key="GS_Dashboard_Welcome">Bem -vindo ao seu painel</string>
+    <string key="GS_Dashboard_Loading">Carregando dados ...</string>
+  </group>
+</localization>
