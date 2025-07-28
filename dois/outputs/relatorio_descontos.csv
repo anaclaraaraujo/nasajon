@@ -1,0 +1,2 @@
+nome,matricula,cpf,sexo,cargo,cargo_nivel,dataadmissao,datarescisao,datanascimento,ge,empresa,estabelecimento,lotacao,departamento,tipo_rubrica,ordem_rubrica,codigo_rubrica,valor,quantidade,tipo_calculo,ano_calculo,mes_calculo,ano_mes
+João Duarte,1,12345678900,M,Analista,Pleno,2020-01-01,,1990-05-01,GE1,E1,EST1,LOT1,DEP1,DESCONTO,2,D001,300.0,1.0,FO,2025,7,2025-07-01

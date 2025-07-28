@@ -27,4 +27,4 @@ for string_element in root.findall('.//ns:string', ns):
         print(f'Traduzido: "{original_text}" → "{translated}"')
 
 # Salva o novo XML traduzido
-tree.write('um/arquivos/localization_pt.xml', encoding='utf-8', xml_declaration=True)
+tree.write('um/outputs/localization_pt.xml', encoding='utf-8', xml_declaration=True)
